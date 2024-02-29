@@ -5,12 +5,12 @@ import streamlit as st
 
 # Adjust the width of the Streamlit page
 st.set_page_config(
-    page_title="Use Pygwalker In Streamlit",
+    page_title="Us Pygwalker In Streamlit",
     layout="wide"
 )
 
 # Add Title
-st.title("Use Pygwalker In Streamlit")
+st.title("Us Pygwalker In Streamlit")
 
 # Add subtitle
 SUB_TITLE = """

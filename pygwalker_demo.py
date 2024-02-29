@@ -4,7 +4,7 @@ import streamlit as st
 
 # Adjust the width of the Streamlit page
 st.set_page_config(
-    page_title="Use Pygwalker In Streamlit",
+    page_title="Us Pygwalker In Streamlit",
     layout="wide"
 )
 
@@ -12,7 +12,7 @@ st.set_page_config(
 init_streamlit_comm()
 
 # Add Title
-st.title("Use Pygwalker In Streamlit")
+st.title("Us Pygwalker In Streamlit")
 
 # You should cache your pygwalker renderer, if you don't want your memory to explode
 @st.cache_resource

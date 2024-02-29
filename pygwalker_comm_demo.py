@@ -4,11 +4,11 @@ import streamlit as st
 from pygwalker.api.streamlit import init_streamlit_comm, get_streamlit_html
 
 st.set_page_config(
-    page_title="Use Pygwalker In Streamlit",
+    page_title="Us Pygwalker In Streamlit",
     layout="wide"
 )
 
-st.title("Use Pygwalker In Streamlit(support communication)")
+st.title("Us Pygwalker In Streamlit(support communication)")
 
 # Initialize pygwalker communication
 init_streamlit_comm()
